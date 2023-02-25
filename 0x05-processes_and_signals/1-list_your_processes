@@ -1,4 +1,3 @@
 #!/usr/bin/env bash
-# This script displays a list of currently running processes
-
-ps auxf
+# bash script for listing PIDs in user formatting
+ps -e u
