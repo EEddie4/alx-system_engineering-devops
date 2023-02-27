@@ -1,2 +1,1 @@
-A Readme file
-READEME please
+# 0x08. Networking basics #1
